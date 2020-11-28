@@ -1,13 +1,7 @@
 ######################
 # Project Specific
 ######################
-.eslintcache
-/mvnw.cmd
-/.mvn/
-/HELP.md
-/mvnw
-/pom.xml
-/src/
+
 
 ######################
 # Node
